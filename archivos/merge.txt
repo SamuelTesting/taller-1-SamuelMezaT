@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Samuel Meza Tabares 
 Edad 23 años 
 Aspiraciones: tener varios conocimientos relacionados con POO dado que son muy utiles en el mercado del dia a dia y porder destacar con estas nuevas herramientas 
+=======
+debe dejar realizar el commit dado que la carpeta archivos ya contiene archivos anteriores 
+>>>>>>> 032763a5dd65ff4a895576d37737f80261baeecc
